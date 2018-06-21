@@ -17,9 +17,9 @@ This IP is new.
 
 ### Dependencies ###
 
-[OpenG Array Tools] vipm://oglib_error?repo_url=http://www.jkisoft.com/packages
+[OpenG Array Library 4.1.1.14 or Higher] vipm://oglib_error?repo_url=http://www.jkisoft.com/packages
 
-[OpenG MD5] vipm://oglib_md5?repo_url=http://www.jkisoft.com/packages
+[OpenG MD5 Digest Library 4.1.1.10 or Higher] vipm://oglib_md5?repo_url=http://www.jkisoft.com/packages
 
 VIs must be renamed in BTI429LV.lvlib to prevent naming collision during compilation see User Readme.rtf
 
